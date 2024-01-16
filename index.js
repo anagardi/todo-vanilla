@@ -1,6 +1,6 @@
 const port = 8000;
 
-const url = `http://localhost:${port}/api/post`;
+const url = `http://localhost:${port}/api/item`;
 
 const newTask = document.getElementById("new-task");
 
